@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: ghcr.io/abani-rautray/my-app:8769fb7e482769e31e0b86fb6c4d037eecf259b9
+          image: ghcr.io/abani-rautray/my-app:b605f8a68c1331488611a5bc5fd945491522d6ac
           ports:
             - containerPort: 8080
